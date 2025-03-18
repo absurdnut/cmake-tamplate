@@ -1,0 +1,8 @@
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/MySuperProject.dir
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/test.dir
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/edit_cache.dir
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/rebuild_cache.dir
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/list_install_components.dir
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/install.dir
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/install/local.dir
+/home/guopyran/development/demo/cmake-test/build/CMakeFiles/install/strip.dir
