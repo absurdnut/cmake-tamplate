@@ -1,1 +1,0 @@
-/usr/bin/gcc -g CMakeFiles/MySuperProject.dir/src/main.c.o -o bin/MySuperProject 

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/guopyran/development/demo/cmake-test/build",
-  "command": "/usr/bin/gcc -DPROJECT_VERSION=1.0.0 -DUSE_FEATURE_X -I/home/guopyran/development/demo/cmake-test/include -g -Wall -Wextra -Wpedantic -O0 -g -o CMakeFiles/MySuperProject.dir/src/main.c.o -c /home/guopyran/development/demo/cmake-test/src/main.c",
-  "file": "/home/guopyran/development/demo/cmake-test/src/main.c",
-  "output": "CMakeFiles/MySuperProject.dir/src/main.c.o"
-}
-]
